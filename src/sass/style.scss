@@ -1,4 +1,16 @@
-@import "variables";
-@import "mixins";
-@import "media";
+@import "base/variables";
+@import "base/mixins";
+@import "base/media";
 
+* {
+    font-family: 'Museo Sans Cyrl';
+}
+
+.container {
+    max-width: 975px;
+    margin: 0 auto;
+}
+
+@import "blocks/promo";
+@import "blocks/header";
+@import "blocks/buttons";
