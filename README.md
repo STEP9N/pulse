@@ -3,4 +3,7 @@
     8:51 first section
 
 20.06.22
-    11.23 second section
+    11:23 second section
+
+21.06.22
+    15:54 adaptive sections
