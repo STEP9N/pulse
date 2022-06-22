@@ -9,4 +9,4 @@
     15:54 adaptive sections
 
 22.06.22
-    14:30 3rd section
+    14:30 third section
