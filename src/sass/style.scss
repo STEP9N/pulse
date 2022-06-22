@@ -1,5 +1,6 @@
 @import "base/variables";
 @import "base/mixins";
+@import "base/forms";
 
 * {
     font-family: 'Museo Sans Cyrl';
@@ -14,4 +15,5 @@
 @import "blocks/header";
 @import "blocks/buttons";
 @import "blocks/benefits";
+@import "blocks/consultation";
 @import "base/media";
